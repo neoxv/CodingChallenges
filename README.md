@@ -6,6 +6,6 @@ This is a [Rust](https://www.rust-lang.org/) implementation of the [Coding Chall
 
 ## Challenges
 
-- [Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc/)
+- [Build Your Own wc Tool](https://github.com/neoxv/CodingChallenges/tree/main/ccwc)
 
 
